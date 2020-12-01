@@ -1,2 +1,2 @@
-# BASH-
+# BASH
 Includes BASH projects
